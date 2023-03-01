@@ -1,3 +1,2 @@
 # word-cloud
-
-Here I developed a simple word cloud by web scraping
+Here I demonstrate creating a simple word cloud from data that is scraped from a website using Python.  
